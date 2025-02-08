@@ -17,3 +17,7 @@ a {
     color: rgb(60, 255, 34);
     text-decoration: none;
 }
+
+iframe {
+    border: thick solid rgb(60, 255, 34);
+}
